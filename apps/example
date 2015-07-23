@@ -1,0 +1,3 @@
+print("hi")
+os.loadAPI("lolapi")
+lolapi.printhi()
