@@ -1,3 +1,0 @@
-function printhi()
-  print("lolapi> hi" )
-end
